@@ -1,0 +1,10 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+*.pkl
+cache/
+Downloads/
+SCIL_Data/
+*.html
+.env
+*.key
