@@ -1,7 +1,7 @@
-# ACS County FEMA Risk Visualization
+# Census and FEMA Risk Visualization
 By Sam Jackowski  
   
-This notebook loads processed ACS/FEMA county-level data and a U.S. counties GeoJSON file to create interactive maps and visualizations.
+This notebook loads processed Census ACS and FEMA county-level data and a U.S. counties GeoJSON file to create interactive maps and visualizations.
 
 
 ## Installation
